@@ -1,0 +1,9 @@
+requests
+bs4
+futures
+cython
+click
+termcolor
+emoji
+iso8601
+GitPython
